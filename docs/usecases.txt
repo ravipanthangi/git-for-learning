@@ -4,4 +4,4 @@
 1. build this code base from jenkins
 2. deploy the code to tomcat server
 3. use any configaration management tool for achive this
->>>>>>> f375c3e9e669e54e24156ca1385bd80a53557771
+4. create a docker also for this
