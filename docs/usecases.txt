@@ -1,0 +1,3 @@
+##Testers
+1. Execute smoke tests on permise and cloud deployments
+
